@@ -1,4 +1,4 @@
-﻿from PIL import Image
+﻿from PIL import Image    #我用的是python3，所以用（pip install pillow）才能安装PIL
 import os
 
 
